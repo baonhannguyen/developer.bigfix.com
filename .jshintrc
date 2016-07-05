@@ -9,5 +9,6 @@
   "globalstrict": true,
   "quotmark": true,
   "undef": true,
-  "unused": true
+  "unused": true,
+  "test": true
 }
